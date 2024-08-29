@@ -4,5 +4,5 @@ t = float(input('Insira um tempo: ')) # O usuário deverá inserir um tempo/per�
 
 j =  c*i*t # Foi efetuada a multiplicação do capital pela taxa de juros pelo tempo/período inserido.
 
-print(f'|O juros simples calculado é igual a: {j}|') # Imprime o resultado do juros simples.
+print(f'|O juros simples calculado é igual a: {j}|') # Imprime o resultado dos juros simples.
 
