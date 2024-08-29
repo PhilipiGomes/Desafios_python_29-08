@@ -1,4 +1,4 @@
-# Solicitando e recebendo os numeros para verificar se o segundo numero e menor que o primeiro
+# Solicitando e recebendo os números para verificar se o segundo número e menor que o primeiro
 num1 = input('Digite um número: ')
 num1 = float(num1)
 num2= input('Digite um número: ')
